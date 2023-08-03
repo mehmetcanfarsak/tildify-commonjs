@@ -1,0 +1,38 @@
+{
+  "name": "tildify-commonjs",
+  "version": "1.0.0",
+  "description": "Convert an absolute path to a tilde path: `/Users/YourUserName/dev` → `~/dev`",
+  "license": "MIT",
+  "repository": "mehmetcanfarsak/tildify-commonjs",
+  "author": {
+    "name": "Mehmet Can Farsak",
+    "url": "https://github.com/mehmetcanfarsak"
+  },
+  "contributors": [],
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "tilde",
+    "expansion",
+    "expand",
+    "commonjs",
+    "tildify",
+    "unexpand",
+    "homedir",
+    "collapse",
+    "convert",
+    "path",
+    "home",
+    "directory",
+    "user",
+    "shell",
+    "bash",
+    "backend"
+  ],
+  "devDependencies": {
+    "ava": "^5.3.1"
+  }
+}
